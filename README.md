@@ -1,2 +1,2 @@
-# practice_aws
-Practice AWS things
+# practice_aws 
+Practice AWS; All things AWS!
